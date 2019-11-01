@@ -1,5 +1,7 @@
 ## Patron Privacy and Public Computers
 
+https://chuckmcandrew.com/lfi-public-computers/
+
 
 
 Chuck McAndrew
